@@ -10,7 +10,7 @@ const args = process.argv;
         await page.goto(url, { waitUntil: 'networkidle0' });
         const pdfOptions = {
             path: args[3],
-            format: 'A4', // or 'Letter', 'Legal', 'Tabloid', etc.
+            format: 'Letter', // or 'Letter', 'Legal', 'Tabloid', etc.
             printBackground: true,
             margin: {
                 top: '0px',
