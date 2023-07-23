@@ -1,6 +1,6 @@
 # Vivian Roshan Adithan
 - (+91) 8248477136
-- <a href="vivianroshan@gmail.com">vivianroshan@gmail.com</a>
+- <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - MS Computer Science, ASU
 
 Engineering graduate with a passion for software development. Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL and web technologies. And a strong interest towards problem-solving
