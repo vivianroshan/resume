@@ -3,12 +3,10 @@ param (
     [string]$md_file,
 
     [Parameter(Mandatory=$true, Position=1)]
-    [string]$pdf_file
+    [string]$html_file
 )
 
 $md_file_abs = Get-Item -Path $md_file -ErrorAction Stop | Select-Object -ExpandProperty FullName
-$pandoc_html = "./pandoc.html"
-$temp_html = "./temp.html"
 
 function ConvertTo-WSLPath {
     param(
@@ -27,11 +25,16 @@ function ConvertTo-WSLPath {
     }
 }
 $wslFilePath_md_file = ConvertTo-WSLPath -WindowsPath $md_file_abs
-wsl.exe --exec pandoc $wslFilePath_md_file -o $pandoc_html
+$pandoc_html = $PSScriptRoot+"\pandoc.html"
+$wslFilePath_pandoc_html = ConvertTo-WSLPath -WindowsPath $pandoc_html
 
-rm -r $temp_html
+wsl.exe --exec pandoc $wslFilePath_md_file -o $wslFilePath_pandoc_html
 
-(cat.exe css.html && cat.exe $pandoc_html && echo.exe "</div> </body> </html>") >> $temp_html
+if (Test-Path -Path $html_file -PathType Leaf) {
+    rm -r $html_file
+}
 
-npx prettier --write $temp_html
+(cat.exe $PSScriptRoot/css.html && cat.exe $pandoc_html && echo.exe "</div> </body> </html>") >> $html_file
+
+npx prettier --write $html_file
 

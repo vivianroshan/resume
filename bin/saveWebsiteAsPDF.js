@@ -12,9 +12,9 @@ const args = process.argv;
       path: args[3],
     };
     await page.pdf(pdfOptions);
-    console.log('Website saved as PDF successfully.');
+    console.log(args[3]);
   } catch (error) {
-    console.error('Error saving the website as PDF:', error);
+    console.error('Error saving the ' + args[2] + ' as PDF:', error);
   } finally {
     await browser.close();
   }
