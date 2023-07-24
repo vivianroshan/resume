@@ -2,11 +2,12 @@
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - ![githubLogo](github.png) [github.com/vivianroshan](https://github.com/vivianroshan)
+- ![LinkedinLogo](linkedin.png) [linkedin](www.linkedin.com/in/vivian-roshan-adithan-9ba07b1b6)
 
 Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting and Web technologies with strong problem-solving skills. Ready to make a difference in software development world.
 
 ## Education
-### <span>National Institute of Technology (NIT), Puducherry</span> <span>2017 - 2021</span>
+### <span>National Institute of Technology (NIT), Puducherry</span> <span>Jul 2017 - May 2021</span>
 - <div><span>Bachelor of Technology in Electronics and Communication Engineering</span> <span>CGPA - 7.59/10</span></div> 
 
 ## Professional Experience
@@ -34,7 +35,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Enabling the differently-abled through **Morse code** using Arduino and Proteus simulation.
 - Data **Compression**, **Encryption**, and **Decryption** using Python.
 
-### Mindtree Ltd
+### Mindtree Ltd, Bangalore
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ### Personal Project
