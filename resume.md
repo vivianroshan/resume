@@ -36,10 +36,10 @@ OpManager is a network management and monitoring software offered by Zoho
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ## Academic Accomplishments
-- <div><span>Graduate Record Examinations (<b>GRE</b>) </span><span>Score - 314/340</span></div>
-- <div> <span>Test of English as a Foreign Language (<b>TOEFL</b>)</span><span>Score - 95/120</span></div>
+- <div><span>Graduate Record Examinations (<strong>GRE</strong>) </span><span>Score - 314/340</span></div>
+- <div> <span>Test of English as a Foreign Language (<strong>TOEFL</strong>)</span><span>Score - 95/120</span></div>
 - Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
-- <div><span><b>Qualified Graduate Aptitude Test in Engineering (GATE)</b></span><span><b>2021 - 2022</b></span></div>
+- <div><span><strong>Qualified Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span></div>
 <p>An examination for admission in Master&apos;s Program and jobs in Public Sector Companies in India.</p>
 <table>
 <tr> <td>2022</td> <td>Computer Science</td> <td>Score - 350/900</td> <td>All India Rank - 9894 out of 80K (approx).</td> </tr>
