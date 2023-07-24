@@ -3,7 +3,7 @@
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - MS Computer Science, ASU
 
-Engineering graduate with a passion for software development. Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL and web technologies. And a strong interest towards problem-solving
+Engineering graduate with a passion for software development. Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL, Shell scripting and Web technologies. And a strong interest towards problem-solving
 
 ## Education
 ### <span>National Institute of Technology (NIT), Puducherry</span> <span>2017 - 2021</span>
@@ -18,7 +18,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Made the Central - Probe communication in the **Distributed** Edition **fault tolerant** for several modules making the product more stable.
 - Reworked the public demo site of OpManager making it more **responsive** there by making it easy for the customers to have a feel of product.
 - Automated the deployment process for the QAs with **PowerShell** and **Bash** scripts to make the testing process easy.
-- Fixed **50+ bugs** encountered by customer and handled over 200+ support tickets which needed developer assistance.
+- Fixed **50+ bugs** encountered by customer and handled over **200+ support tickets** which needed developer assistance.
 
 ### <span>Software Engineer, Mindtree</span> <span>Jun 2021 - Jan 2022</span>
 - Full Stack Web Development with **Dotnet** and **Angular**.
