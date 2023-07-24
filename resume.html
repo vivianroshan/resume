@@ -87,13 +87,18 @@
           margin: 1em 0;
       }
 
+      h1+ul>li>img {
+          width: 0.7em;
+          height: 0.7em;
+      }
+
       table {
       width: 100%
       }
 
       @media print {
           body {
-              font-size: 10pt;
+              font-size: 10.5pt;
               margin: 0;
               padding: 0;
               background: none;
@@ -122,8 +127,8 @@
       @page {
           /* Change margins and paper size of PDF */
           /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
-          size: Letter; //Letter, A4
-          margin: 0.5in 0.5in;
+          size: A4; //Letter, A4
+          margin: 0.2in 0.2in;
       }
 
       @media screen and (max-width: 800px) {
@@ -148,15 +153,16 @@
 
   <body>
       <div id="resume">
-<h1 id="vivian-roshan-adithan">Vivian Roshan Adithan</h1>
+<h1 id="vivian-roshan-a">Vivian Roshan A</h1>
 <ul>
 <li>(+91) 8248477136</li>
 <li><a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a></li>
-<li>MS Computer Science, ASU</li>
+<li><img src="github.png" alt="githubLogo" /> <a
+href="https://github.com/vivianroshan">https://github.com/vivianroshan</a></li>
 </ul>
 <p>Engineering graduate with a passion for software development.
-Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL and web
-technologies. And a strong interest towards problem-solving</p>
+Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL, Shell scripting
+and Web technologies. And a strong interest towards problem-solving</p>
 <h2 id="education">Education</h2>
 <h3
 id="national-institute-of-technology-nit-puducherry-2017---2021"><span>National
@@ -191,7 +197,8 @@ have a feel of product.</li>
 <strong>PowerShell</strong> and <strong>Bash</strong> scripts to make
 the testing process easy.</li>
 <li>Fixed <strong>50+ bugs</strong> encountered by customer and handled
-over 200+ support tickets which needed developer assistance.</li>
+over <strong>200+ support tickets</strong> which needed developer
+assistance.</li>
 </ul>
 <h3 id="software-engineer-mindtree-jun-2021---jan-2022"><span>Software
 Engineer, Mindtree</span> <span>Jun 2021 - Jan 2022</span></h3>
@@ -209,6 +216,11 @@ of each computer by Studying the assembly line of computers and how OS
 is bootstrapped into the computers from the servers.</li>
 </ul>
 <h2 id="projects-undertaken">Projects Undertaken</h2>
+<ul>
+<li><strong>Version-controlled Resume</strong>, Markdown-based with CSS
+formatting and can be converted to pdf offers enhanced readability and
+is easy to maintenece.</li>
+</ul>
 <h3 id="at-nit---puducherry-during-undergraduate-studies">At NIT -
 Puducherry during undergraduate studies</h3>
 <ul>
@@ -227,21 +239,13 @@ Generative Adversarial Network (Machine Learning).</li>
 </ul>
 <h2 id="academic-accomplishments">Academic Accomplishments</h2>
 <ul>
-<li><div>
-<span>Graduate Record Examinations (<strong>GRE</strong>)
-</span><span>Score - 314/340</span>
-</div></li>
-<li><div>
-<span>Test of English as a Foreign Language
-(<strong>TOEFL</strong>)</span><span>Score - 95/120</span>
-</div></li>
 <li>Medalist at School and State level in International Mathematics
 Olympiad (<strong>IMO</strong>) &amp; National Cyber Olympiad
 (<strong>NCO</strong>).</li>
-<li><div>
-<span><strong>Qualified Graduate Aptitude Test in Engineering
-(GATE)</strong></span><span><strong>2021 - 2022</strong></span>
-</div>
+<li><h3
+id="qualified-graduate-aptitude-test-in-engineering-gate2021---2022"><span><strong>Qualified
+Graduate Aptitude Test in Engineering
+(GATE)</strong></span><span><strong>2021 - 2022</strong></span></h3>
 <p>
 An examination for admission in Master's Program and jobs in Public
 Sector Companies in India.
@@ -283,6 +287,6 @@ All India Rank - 7965 out of 80K (approx).
 <li>Languages: Java, Dotnet(C#), Python, C++, SQL, NoSQL, Bash script,
 PowerShell script</li>
 <li>Version Control: Mercurial(Hg), Git</li>
-<li>Tools: Office Suites, Vim</li>
+<li>Tools: Office Suites, Vim, IntelliJ Idea</li>
 </ul>
 </div> </body> </html>

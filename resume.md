@@ -1,7 +1,6 @@
-# Vivian Roshan Adithan
+# Vivian Roshan A
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
-- MS Computer Science, ASU
 - ![githubLogo](github.png) [https://github.com/vivianroshan](https://github.com/vivianroshan)
 
 Engineering graduate with a passion for software development. Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL, Shell scripting and Web technologies. And a strong interest towards problem-solving
@@ -29,6 +28,8 @@ OpManager is a network management and monitoring software offered by Zoho
 - Designed and developed an application to track the stage of assembly of each computer by Studying the assembly line of computers and how OS is bootstrapped into the computers from the servers.
 
 ## Projects Undertaken
+- **Version-controlled Resume**, Markdown-based with CSS formatting and can be converted to pdf offers enhanced readability and is easy to maintenece.
+
 ### At NIT - Puducherry during undergraduate studies
 - Image generation and Enhancement using **GAN** - Generative Adversarial Network (Machine Learning).
 - Enabling the differently-abled Through Morse code (using **Arduino** and **Proteus simulation**).
@@ -38,10 +39,8 @@ OpManager is a network management and monitoring software offered by Zoho
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ## Academic Accomplishments
-- <div><span>Graduate Record Examinations (<strong>GRE</strong>) </span><span>Score - 314/340</span></div>
-- <div> <span>Test of English as a Foreign Language (<strong>TOEFL</strong>)</span><span>Score - 95/120</span></div>
 - Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
-- <div><span><strong>Qualified Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span></div>
+- ### <span><strong>Qualified Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span>
 <p>An examination for admission in Master&apos;s Program and jobs in Public Sector Companies in India.</p>
 <table>
 <tr> <td>2022</td> <td>Computer Science</td> <td>Score - 350/900</td> <td>All India Rank - 9894 out of 80K (approx).</td> </tr>
@@ -52,5 +51,5 @@ OpManager is a network management and monitoring software offered by Zoho
 - Web development: HTML, CSS, JavaScript, Angular
 - Languages: Java, Dotnet(C#), Python, C++, SQL, NoSQL, Bash script, PowerShell script
 - Version Control: Mercurial(Hg), Git
-- Tools: Office Suites, Vim
+- Tools: Office Suites, Vim, IntelliJ Idea
 
