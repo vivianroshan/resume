@@ -17,6 +17,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Added **new feature LAMA** (Log Analytics and Monitoring Application) to send data to **SEBI** (Securities and Exchange Board of India) which opened the OpManager to the **Fin-Tech** space.
 - Made the Central - Probe communication in the **Distributed** Edition **fault tolerant** for several modules making the product more stable.
 - Reworked the public demo site of OpManager making it more **responsive** there by making it easy for the customers to have a feel of product.
+- Automated the deployment process for the QAs with **PowerShell** and **Bash** scripts to make the testing process easy.
 - Fixed **50+ bugs** encountered by customer and handled over 200+ support tickets which needed developer assistance.
 
 ### <span>Software Engineer, Mindtree</span> <span>Jun 2021 - Jan 2022</span>
@@ -48,6 +49,7 @@ OpManager is a network management and monitoring software offered by Zoho
 
 ## Technical Skills
 - Web development: HTML, CSS, JavaScript, Angular
-- Languages: Java, Dotnet(C#), Python, C++, SQL, NoSQL
+- Languages: Java, Dotnet(C#), Python, C++, SQL, NoSQL, Bash script, PowerShell script
 - Version Control: Mercurial(Hg), Git
+- Tools: Office Suites, Vim
 
