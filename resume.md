@@ -2,6 +2,7 @@
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - MS Computer Science, ASU
+- ![githubLogo](github.png) [https://github.com/vivianroshan](https://github.com/vivianroshan)
 
 Engineering graduate with a passion for software development. Proficient in Java, Dotnet(C#), C++, Python, SQL, NoSQL, Shell scripting and Web technologies. And a strong interest towards problem-solving
 
