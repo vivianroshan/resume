@@ -15,8 +15,8 @@ OpManager is a network management and monitoring software offered by Zoho
 
 - Server side Development with **Java**.
 - Developed **new feature LAMA** (Log Analytics and Monitoring Application) for sending data to **SEBI** (Securities and Exchange Board of India) which opened the OpManager to **Fin-Tech** space.
-- Implemented robust fault tolerance mechanisms for the **Central - Probe communication** in **the Distributed Edition**, significantly enhancing the product's stability across multiple modules.
-- Revamped the **Public Demo site of OpManager** with cutting-edge multithreading concepts, providing a **responsive** and seamless user experience, allowing customers to effortlessly explore the product's features and capabilities.
+- Implemented robust **fault tolerance** mechanisms for the **Central - Probe communication** in **the Distributed Edition**, significantly enhancing the product's **stability** across multiple modules.
+- Revamped the **Public Demo site of OpManager** with cutting-edge **multithreading** concepts, providing a **responsive** and seamless user experience, allowing customers to effortlessly explore the product's features and capabilities.
 - Automated the deployment process for the QAs with **PowerShell** and **Bash** scripts to make the testing process easy.
 - Fixed **50+ bugs** and handled over **200+ support tickets**.
 
@@ -25,7 +25,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Designed and developed an **Inventory Management** website for **Dell**.
 
 ### <span>Intern, Lenovo</span> <span>May 2019</span>
-- Designed and developed an application to track the stage of assembly of each computer by studying the assembly line of computers and how OS is bootstrapped into the computers from the servers.
+- Designed and developed an application to track the **stage of assembly** of each computer by studying the assembly line of computers and how **Operating System** is bootstrapped into the computers from the **server**.
 
 ## Projects Undertaken
 
