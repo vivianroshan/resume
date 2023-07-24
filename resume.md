@@ -3,7 +3,7 @@
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - ![githubLogo](github.png) [https://github.com/vivianroshan](https://github.com/vivianroshan)
 
-Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting, and Web technologies. with Strong problem-solving skills. Ready to make a difference in software development world.
+Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting and Web technologies with Strong problem-solving skills. Ready to make a difference in software development world.
 
 ## Education
 ### <span>National Institute of Technology (NIT), Puducherry</span> <span>2017 - 2021</span>
@@ -28,19 +28,21 @@ OpManager is a network management and monitoring software offered by Zoho
 - Designed and developed an application to track the stage of assembly of each computer by studying the assembly line of computers and how OS is bootstrapped into the computers from the servers.
 
 ## Projects Undertaken
-- **Version-controlled Resume**, A Markdown-based CSS formatting which can be converted to pdf for enhanced readability and is easy to maintain.
 
 ### National Institute of Technology (NIT), Puducherry
-- Image generation and Enhancement using **GAN** - Generative Adversarial Network (Machine Learning).
-- Enabling the differently-abled Through Morse code (using **Arduino** and **Proteus simulation**).
-- Data Compression, Encryption, and Decryption using **Python**.
+- **Image generation Enhancement** using GAN - Generative Adversarial Network (**Machine Learning**).
+- Enabling the differently-abled through **Morse code** using Arduino and Proteus simulation.
+- Data **Compression**, **Encryption**, and **Decryption** using Python.
 
 ### Mindtree Ltd
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
+### Personal Project
+- **Version-controlled Resume**, A Markdown-based CSS formatting which can be converted to pdf for enhanced readability and is easy to maintain.
+
 ## Academic Accomplishments
 - Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
-- ### <span><strong>Qualified Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span>
+- ### <span><strong>Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span>
 <p>An examination for admission in Master&apos;s Program and jobs in Public Sector Companies in India.</p>
 <table>
 <tr> <td>2022</td> <td>Computer Science</td> <td>Score - 350/900</td> <td>All India Rank - <strong>9894</strong> out of 80K (approx).</td> </tr>
@@ -48,6 +50,7 @@ OpManager is a network management and monitoring software offered by Zoho
 </table>
 
 ## Technical Skills
+- Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
 - Frontend: HTML, CSS, JavaScript, Angular
 - Backend: Java, Dotnet(C#), Python, C++, SQL, NoSQL, Bash script, PowerShell script
 - Version Control: Mercurial(Hg), Git
