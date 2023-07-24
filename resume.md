@@ -14,7 +14,7 @@ Engineering graduate with a passion for software development. Proficient in Java
 OpManager is a network management and monitoring software offered by Zoho
 
 - Server side Development with **Java**.
-- Developed **new feature LAMA** (Log Analytics and Monitoring Application) for sending data to **SEBI** (Securities and Exchange Board of India) which opened the OpManager to **Fin-Tech** space.
+- Developed **LAMA** (Log Analytics and Monitoring Application) for sending data to **SEBI** (Securities and Exchange Board of India) which opened the OpManager to **Fin-Tech** space.
 - Implemented robust **fault tolerance** mechanisms for the **Central - Probe communication** in **the Distributed Edition**, significantly enhancing the product's **stability** across multiple modules.
 - Revamped the **Public Demo site of OpManager** with cutting-edge **multithreading** concepts, providing a **responsive** and seamless user experience, allowing customers to effortlessly explore the product's features and capabilities.
 - Automated the deployment process for the QAs with **PowerShell** and **Bash** scripts to make the testing process easy.
