@@ -2,7 +2,7 @@
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - ![githubLogo](github.png) [github.com/vivianroshan](https://github.com/vivianroshan)
-- ![LinkedinLogo](linkedin.png) [linkedin.com/in/vivianroshan](www.linkedin.com/in/vivianroshan)
+- ![LinkedinLogo](linkedin.png) [linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 
 Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting and Web technologies with strong problem-solving skills. Ready to make a difference in software development world.
 
