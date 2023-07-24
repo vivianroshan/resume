@@ -2,7 +2,7 @@
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
 - ![githubLogo](github.png) [github.com/vivianroshan](https://github.com/vivianroshan)
-- ![LinkedinLogo](linkedin.png) [linkedin](www.linkedin.com/in/vivian-roshan-adithan-9ba07b1b6)
+- ![LinkedinLogo](linkedin.png) [linkedin.com/in/vivianroshan](www.linkedin.com/in/vivianroshan)
 
 Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting and Web technologies with strong problem-solving skills. Ready to make a difference in software development world.
 
@@ -39,7 +39,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ### Personal Project
-- **Version-controlled Resume**, A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability maintainance.
+- **Version Controlled Resume:** A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability maintainance.
 
 ## Academic Accomplishments
 - Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
