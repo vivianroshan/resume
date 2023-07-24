@@ -14,9 +14,9 @@ const args = process.argv;
             printBackground: true,
             margin: {
                 top: '40px',
-                right: '50px',
-                bottom: '40px',
-                left: '50px',
+                right: '30px',
+                bottom: '30px',
+                left: '30px',
             },
         };
         await page.pdf(pdfOptions);
