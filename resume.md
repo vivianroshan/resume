@@ -1,13 +1,16 @@
 # Vivian Roshan Adithan
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
-- MS Computer Science, ASU
 - ![githubLogo](github.png) [https://github.com/vivianroshan](https://github.com/vivianroshan)
+- ![LinkedinLogo](linkedin.png) [linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 
 Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting, and Web technologies. with Strong problem-solving skills. Ready to make a difference in software development world.
 
 ## Education
-### <span>National Institute of Technology (NIT), Puducherry</span> <span>2017 - 2021</span>
+### <span>Arizona State University (ASU), Tempe</span> <span>Aug2023 - Present</span>
+- MS in Computer Science
+
+### <span>National Institute of Technology (NIT), Puducherry</span> <span>Jul 2017 - May 2021</span>
 - <div><span>Bachelor of Technology in Electronics and Communication Engineering</span> <span>CGPA - 7.59/10</span></div> 
 
 ## Professional Experience
@@ -29,8 +32,6 @@ OpManager is a network management and monitoring software offered by Zoho
 - Designed and developed an application to track the stage of assembly of each computer by studying the assembly line of computers and how OS is bootstrapped into the computers from the servers.
 
 ## Projects Undertaken
-### At NIT - Puducherry during undergraduate studies
-
 ### National Institute of Technology (NIT), Puducherry
 - Image generation and Enhancement using **GAN** - Generative Adversarial Network (Machine Learning).
 - Enabling the differently-abled Through Morse code (using **Arduino** and **Proteus simulation**).
@@ -39,7 +40,7 @@ OpManager is a network management and monitoring software offered by Zoho
 ### Mindtree Ltd
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
-### Personal Project
+### Personal Project 
 - **Version Controlled Resume:** A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability maintainance.
 
 ## Academic Accomplishments

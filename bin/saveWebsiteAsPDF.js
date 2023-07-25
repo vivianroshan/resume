@@ -13,10 +13,10 @@ const args = process.argv;
             format: 'Letter', // or 'A4', 'Letter', 'Legal', 'Tabloid', etc.
             printBackground: true,
             margin: {
-                top: '20px',
-                right: '40px',
-                bottom: '20px',
-                left: '40px',
+                top: '10px',
+                right: '20px',
+                bottom: '10px',
+                left: '20px',
             },
         };
         await page.pdf(pdfOptions);
