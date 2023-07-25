@@ -35,7 +35,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Enabling the differently-abled through **Morse code** using Arduino and Proteus simulation.
 - Data **Compression**, **Encryption**, and **Decryption** using Python.
 
-### Mindtree Ltd, Bangalore
+### Mindtree, Bangalore
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ### Personal Project
