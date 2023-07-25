@@ -37,7 +37,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Enabling the differently-abled Through Morse code (using **Arduino** and **Proteus simulation**).
 - Data Compression, Encryption, and Decryption using **Python**.
 
-### Mindtree Ltd
+### Mindtree, Bangalore
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ### Personal Project
@@ -47,7 +47,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - <div><span>Graduate Record Examinations (<strong>GRE</strong>) </span><span>Score - 314/340</span></div>
 - <div> <span>Test of English as a Foreign Language (<strong>TOEFL</strong>)</span><span>Score - 95/120</span></div>
 - Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
-- <div><span><strong>Qualified Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span></div>
+- <div><span><strong>Graduate Aptitude Test in Engineering (GATE)</strong></span><span><strong>2021 - 2022</strong></span></div>
 <p>An examination for admission in Master&apos;s Program and jobs in Public Sector Companies in India.</p>
 <table>
 <tr> <td>2022</td> <td>Computer Science</td> <td>Score - 350/900</td> <td>All India Rank - <strong>9894</strong> out of 80K (approx).</td> </tr>
