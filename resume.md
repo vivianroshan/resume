@@ -29,7 +29,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Designed and developed an **Inventory Management** website for **Dell**.
 
 ### <span>Intern, Lenovo</span> <span>May 2019</span>
-- Designed and developed an application to track the stage of assembly of each computer by studying the assembly line of computers and how OS is bootstrapped into the computers from the servers.
+- Designed and developed an application to track the **stage of assembly** of each computer by studying the assembly line of computers and how **Operating System** is bootstrapped into the computers from the **server**.
 
 ## Projects Undertaken
 ### National Institute of Technology (NIT), Puducherry
@@ -55,8 +55,8 @@ OpManager is a network management and monitoring software offered by Zoho
 </table>
 
 ## Technical Skills
-- Frontend: HTML, CSS, JavaScript, Angular
-- Backend: Java, Dotnet(C#), Python, C++, SQL, NoSQL, Bash script, PowerShell script
-- Version Control: Mercurial(Hg), Git
-- Tools:  IntelliJ IDEA, Visual Studio, Jira, Vim, Office Suites
+- **Frontend:** HTML, CSS, JavaScript, Angular
+- **Backend:** Java, Dotnet(C#), Python, C++, SQL, NoSQL, Bash script, PowerShell script
+- **Version Control:** Mercurial(Hg), Git
+- **Tools:**  IntelliJ IDEA, Visual Studio, Jira, Vim, Office Suites
 
