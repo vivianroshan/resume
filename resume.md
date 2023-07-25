@@ -1,8 +1,8 @@
 # Vivian Roshan Adithan
 - (+91) 8248477136
 - <a href="mailto:vivianroshan@gmail.com">vivianroshan@gmail.com</a>
-- ![githubLogo](github.png) [https://github.com/vivianroshan](https://github.com/vivianroshan)
-- ![LinkedinLogo](linkedin.png) [linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
+- ![githubLogo](./logo/github.png) [https://github.com/vivianroshan](https://github.com/vivianroshan)
+- ![LinkedinLogo](./logo/linkedin.png) [linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 
 Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting, and Web technologies. with Strong problem-solving skills. Ready to make a difference in software development world.
 
@@ -40,8 +40,8 @@ OpManager is a network management and monitoring software offered by Zoho
 ### Mindtree Ltd
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
-### Personal Project 
-- **Version Controlled Resume:** A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability maintainance.
+### Personal Project
+- **Version Controlled Resume:** A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability and maintainance.
 
 ## Academic Accomplishments
 - <div><span>Graduate Record Examinations (<strong>GRE</strong>) </span><span>Score - 314/340</span></div>
