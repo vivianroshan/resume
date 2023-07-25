@@ -39,7 +39,7 @@ OpManager is a network management and monitoring software offered by Zoho
 - Model Book Store using **Dotnet**, **MSSQL**, and **Angular**.
 
 ### Personal Project
-- **Version Controlled Resume:** A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability maintainance.
+- **Version Controlled Resume:** A Markdown-based **CSS** formatting which can be converted to **PDF** for enhancing readability and maintainance.
 
 ## Academic Accomplishments
 - Medalist at School and State level in International Mathematics Olympiad (**IMO**) & National Cyber Olympiad (**NCO**).
