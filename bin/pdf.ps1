@@ -11,3 +11,4 @@ $file1abs = Get-Item -Path $file1 -ErrorAction Stop | Select-Object -ExpandPrope
 # Run the Node.js script with the absolute paths as arguments
 $nodeScriptPath = $PSScriptRoot+"\saveWebsiteAsPDF.js" # Replace with the actual path to your Node.js script
 node $nodeScriptPath $file1abs $file2
+

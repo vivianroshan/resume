@@ -27,3 +27,4 @@ const args = process.argv;
         await browser.close();
     }
 })();
+

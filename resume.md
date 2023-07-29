@@ -1,6 +1,6 @@
 # Vivian Roshan Adithan
 - [![**ph:**](./logo/phone.png)(+91) 8248477136](tel:(+91) 8248477136)
-- [![**email:**](./logo/email.png)vivianroshan@gmail.com](mailto:vivianroshan@gmail.com)
+- [![**email:**](./logo/email.png)vadithan@asu.edu](mailto:vadithan@asu.edu)
 - [![**gh:**](./logo/github.png)github.com/vivianroshan](https://github.com/vivianroshan)
 - [![**ln:**](./logo/linkedin.png)linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 
@@ -14,7 +14,8 @@ Engineering graduate with a passion for software development. Proficient in Java
 - <div><span>Bachelor of Technology in Electronics and Communication Engineering</span> <span>CGPA - 7.59/10</span></div> 
 
 ## Professional Experience
-### <span>Member Technical Staff, Zoho - Manage Engine OpManager</span> <span>Jan 2022 - Jul 2023</span>
+### <span>Member Technical Staff (Software Developer), Zoho</span> <span>Jan 2022 - Jul 2023</span>
+
 OpManager is a network management and monitoring software offered by Zoho
 
 - Server side Development with **Java**.
