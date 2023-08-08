@@ -16,7 +16,7 @@ Engineering graduate with a passion for software development. Proficient in Java
 ## Professional Experience
 ### <span>Member Technical Staff (Software Developer), Zoho</span> <span>Jan 2022 - Jul 2023</span>
 
-OpManager is a network management and monitoring software offered by Zoho
+Part of OpManager, a network management and monitoring software offered by Zoho.
 
 - Server side Development with **Java**.
 - Added **new feature LAMA** (Log Analytics and Monitoring Application) to send data to **SEBI** (Securities and Exchange Board of India) which opened the OpManager to the **Fin-Tech** space.
