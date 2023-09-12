@@ -3,11 +3,12 @@
 - [![**email:**](./logo/email.png)vivianroshan@gmail.com](mailto:vivianroshan@gmail.com)
 - [![**gh:**](./logo/github.png)github.com/vivianroshan](https://github.com/vivianroshan)
 - [![**ln:**](./logo/linkedin.png)linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
+- [![**location:**](./logo/location.png)1100 E. Lemon St. b109 Tempe AZ 85281](1100 E. Lemon St. b109 Tempe AZ 85281)
 
 Aspiring Computer Science student. Software Developer with two years of experience. Committed to drive positive change.
 
 ## Education
-### <span>Arizona State University (ASU), Tempe</span> <span>Aug2023 - Present</span>
+### <span>Arizona State University (ASU), Tempe</span> <span>Aug 2023 - Present (expected May2025)</span>
 - MS in Computer Science
 
 ### <span>National Institute of Technology (NIT), Puducherry</span> <span>Jul 2017 - May 2021</span>
