@@ -3,8 +3,7 @@
 file1abs=$(realpath "$1")
 
 # Run the Node.js script with the absolute paths as arguments
-
 export NODE_PATH="$(npm root -g)"
-nodeScriptPath="$(dirname "$0")/saveWebsiteAsPDF.js" # Replace with the actual path to your Node.js script
+nodeScriptPath="$(dirname "$0")/saveWebsiteAsPDF.js"
 realpath `node "$nodeScriptPath" "file://$file1abs" "$2"`
 

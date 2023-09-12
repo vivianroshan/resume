@@ -13,9 +13,9 @@ const args = process.argv;
             format: 'Letter', // or 'A4', 'Letter', 'Legal', 'Tabloid', etc.
             printBackground: true,
             margin: {
-                top: '10px',
+                top: '20px',
                 right: '20px',
-                bottom: '10px',
+                bottom: '20px',
                 left: '20px',
             },
         };

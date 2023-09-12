@@ -4,7 +4,7 @@
 - [![**gh:**](./logo/github.png)github.com/vivianroshan](https://github.com/vivianroshan)
 - [![**ln:**](./logo/linkedin.png)linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 
-Software Developer with two years of experience. Committed to leveraging skills and knowledge to drive positive change.
+Aspiring Computer Science student. Software Developer with two years of experience. Committed to drive positive change.
 
 ## Education
 ### <span>Arizona State University (ASU), Tempe</span> <span>Aug2023 - Present</span>
