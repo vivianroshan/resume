@@ -1,10 +1,10 @@
 # Vivian Roshan Adithan
-- [![**ph:**](./logo/phone.png)(+91) 8248477136](tel:(+91) 8248477136)
-- [![**email:**](./logo/email.png)vadithan@asu.edu](mailto:vadithan@asu.edu)
+- [![**ph:**](./logo/phone.png)+1 (623) 274-4100](tel:+1 (623) 274-4100)
+- [![**email:**](./logo/email.png)vivianroshan@gmail.com](mailto:vivianroshan@gmail.com)
 - [![**gh:**](./logo/github.png)github.com/vivianroshan](https://github.com/vivianroshan)
 - [![**ln:**](./logo/linkedin.png)linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 
-Engineering graduate with a passion for software development. Proficient in Java, C#, C++, Python, SQL, NoSQL, Shell scripting, and Web technologies. with Strong problem-solving skills. Ready to make a difference in software development world.
+Software Developer with two years of experience. Committed to leveraging skills and knowledge to drive positive change.
 
 ## Education
 ### <span>Arizona State University (ASU), Tempe</span> <span>Aug2023 - Present</span>
