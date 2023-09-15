@@ -5,6 +5,8 @@
 - [![**ln:**](./logo/linkedin.png)linkedin.com/in/vivianroshan](https://www.linkedin.com/in/vivianroshan)
 - [![**location:**](./logo/location.png)1100 E. Lemon St. b109 Tempe AZ 85281](1100 E. Lemon St. b109 Tempe AZ 85281)
 
+---
+
 Aspiring Computer Science student. Software Developer with two years of experience. Committed to drive positive change.
 
 ## Education
