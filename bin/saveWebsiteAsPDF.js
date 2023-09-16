@@ -1,13 +1,13 @@
 
-const puppeteer = require('puppeteer');
+const { chromium } = require('playwright');
 const args = process.argv;
 
 (async () => {
-    const browser = await puppeteer.launch({headless: "new"});
+    const browser = await chromium.launch({headless: true});
     const page = await browser.newPage();
     try {
         const url = args[2];
-        await page.goto(url, { waitUntil: 'networkidle0' });
+		await page.goto(url, {waitUntil: 'domcontentloaded'});
         const pdfOptions = {
             path: args[3],
             format: 'Letter', // or 'A4', 'Letter', 'Legal', 'Tabloid', etc.
