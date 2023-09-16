@@ -1,7 +1,5 @@
 #!/bin/bash
 
-md_file_abs=$(realpath "$1")
-
 script_parent_dirname="$(dirname "$(readlink -f "$0")")"
 pandoc_html="$script_parent_dirname/pandoc.html"
 
