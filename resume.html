@@ -1,0 +1,313 @@
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Vivian Roshan Adithan</title>
+    <style>
+      body {
+          color: #000000;
+          background: #EEEEEE;
+          font: 1.1em "Arial";
+          line-height: 1.2;
+          margin: 40px 0;
+      }
+
+      #resume {
+          margin: 0 auto;
+          max-width: 800px;
+          padding: 40px 60px;
+          background: #FFFFFF;
+          border: 1px solid #CCCCCC;
+          box-shadow: 2px 2px 4px #AAAAAA;
+          -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+      }
+
+      h1 {
+          text-transform: capitalize;
+          text-align: center;
+          font-size: 200%;
+          margin: 0;
+          padding: 0;
+      }
+
+      h2 {
+          border-bottom: 1px solid #000000;
+          text-transform: capitalize;
+          font-size: 130%;
+          margin: 0.7em 0 0.3em 0;
+          padding: 0;
+      }
+
+      h3 {
+          font-size: 100%;
+          margin: 0.5em 0 0.3em 0;
+          padding: 0;
+          display: flex;
+          justify-content: space-between;
+      }
+
+      p {
+          margin: 0 0 0 0;
+          padding: 0;
+      }
+
+      ul {
+	  padding: 0;
+	  margin: 0 0 0 1.5em;
+      }
+
+      ul>li>div {
+	  display: flex;
+	  justify-content: space-between;
+      }
+
+      /* ul immediately after h1 = contact list */
+      h1+ul {
+          text-align: center;
+          margin: 0;
+          padding: 0;
+      }
+
+      h1+ul>li {
+          display: inline;
+          list-style-type: none;
+          margin: 0 0.4em 0 0;
+		  font-size:0.83em;
+      }
+
+      /* p immediately after contact list = summary */
+      h1+ul+p {
+          margin: 1em 0;
+      }
+
+      h1+ul>li>a>img {
+          width: 0.7em;
+          height: 0.7em;
+          padding: 0 0.2em 0 0;
+      }
+
+      table {
+      width: 100%
+      }
+
+      @media print {
+          body {
+              font-size: 10pt;
+              margin: 0;
+              padding: 0;
+              background: none;
+          }
+
+          #resume {
+              margin: 0;
+              padding: 0;
+              border: 0px;
+              background: none;
+              box-shadow: none;
+              -webkit-box-shadow: none;
+          }
+
+          /* Make links black in PDF */
+          /* Move this outside the print block to apply this in HTML too */
+          a,
+          a:link,
+          a:visited,
+          a:hover {
+              color: #000000;
+              text-decoration: underline;
+          }
+      }
+
+      @page {
+          /* Change margins and paper size of PDF */
+          /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+          size: Letter; //Letter, A4
+          margin: 0.5in 0.5in;
+      }
+
+      @media screen and (max-width: 800px) {
+          body {
+              font-size: 16pt;
+              margin: 0;
+              padding: 0;
+              background: #FFFFFF !important;
+          }
+
+          #resume {
+              margin: 0;
+              padding: 1em;
+              border: 0px;
+              background: none;
+              box-shadow: none;
+              -webkit-box-shadow: none;
+          }
+      }
+    </style>
+  </head>
+
+  <body>
+      <div id="resume">
+<h1 id="vivian-roshan-adithan">Vivian Roshan Adithan</h1>
+<ul>
+<li><a href="tel:+1%20(623)%20274-4100"><img src="./logo/phone.png"
+alt="ph:" />+1 (623) 274-4100</a></li>
+<li><a href="mailto:vivianroshan@gmail.com"><img src="./logo/email.png"
+alt="email:" />vivianroshan@gmail.com</a></li>
+<li><a href="https://github.com/vivianroshan"><img
+src="./logo/github.png" alt="gh:" />github.com/vivianroshan</a></li>
+<li><a href="https://www.linkedin.com/in/vivianroshan"><img
+src="./logo/linkedin.png"
+alt="ln:" />linkedin.com/in/vivianroshan</a></li>
+<li><a href="1100%20E.%20Lemon%20St.%20b109%20Tempe%20AZ%2085281"><img
+src="./logo/location.png" alt="location:" />1100 E. Lemon St. b109 Tempe
+AZ 85281</a></li>
+</ul>
+<hr />
+<p>Aspiring Computer Science student. Software Developer with two years
+of experience. Committed to drive positive change.</p>
+<h2 id="education">Education</h2>
+<h3
+id="arizona-state-university-asu-tempe-aug-2023---present-expected-may2025"><span>Arizona
+State University (ASU), Tempe</span> <span>Aug 2023 - Present (expected
+May2025)</span></h3>
+<ul>
+<li>MS in Computer Science</li>
+</ul>
+<h3
+id="national-institute-of-technology-nit-puducherry-jul-2017---may-2021"><span>National
+Institute of Technology (NIT), Puducherry</span> <span>Jul 2017 - May
+2021</span></h3>
+<ul>
+<li><div>
+<span>Bachelor of Technology in Electronics and Communication
+Engineering</span> <span>CGPA - 7.59/10</span>
+</div></li>
+</ul>
+<h2 id="professional-experience">Professional Experience</h2>
+<h3
+id="member-technical-staff-software-developer-zoho-jan-2022---jul-2023"><span>Member
+Technical Staff (Software Developer), Zoho</span> <span>Jan 2022 - Jul
+2023</span></h3>
+<p>Part of OpManager, a network management and monitoring software
+offered by Zoho.</p>
+<ul>
+<li>Server side Development with <strong>Java</strong>.</li>
+<li>Added <strong>new feature LAMA</strong> (Log Analytics and
+Monitoring Application) to send data to <strong>SEBI</strong>
+(Securities and Exchange Board of India) which opened the OpManager to
+the <strong>Fin-Tech</strong> space.</li>
+<li>Implemented robust fault tolerance mechanisms for the
+<strong>Central - Probe communication</strong> in <strong>the
+Distributed Edition</strong>, significantly enhancing the product’s
+stability across multiple modules.</li>
+<li>Revamped the <strong>Public Demo site of OpManager</strong> with
+cutting-edge multithreading concepts, providing a
+<strong>responsive</strong> and seamless user experience, allowing
+customers to effortlessly explore the product’s features and
+capabilities.</li>
+<li>Automated the deployment process for the QAs with
+<strong>PowerShell</strong> and <strong>Bash</strong> scripts to make
+the testing process easy.</li>
+<li>Fixed <strong>50+ bugs</strong> and handled over <strong>200+
+support tickets</strong> which needed developer assistance.</li>
+</ul>
+<h3 id="software-engineer-mindtree-jun-2021---jan-2022"><span>Software
+Engineer, Mindtree</span> <span>Jun 2021 - Jan 2022</span></h3>
+<ul>
+<li>Full Stack Web Development with <strong>Dotnet</strong> and
+<strong>Angular</strong>.</li>
+<li>Designed and developed an <strong>Inventory Management</strong>
+website for <strong>Dell</strong>.</li>
+</ul>
+<h3 id="intern-lenovo-may-2019"><span>Intern, Lenovo</span> <span>May
+2019</span></h3>
+<ul>
+<li>Designed and developed an application to track the <strong>stage of
+assembly</strong> of each computer by studying the assembly line of
+computers and how <strong>Operating System</strong> is bootstrapped into
+the computers from the <strong>server</strong>.</li>
+</ul>
+<h2 id="projects-undertaken">Projects Undertaken</h2>
+<h3 id="national-institute-of-technology-nit-puducherry">National
+Institute of Technology (NIT), Puducherry</h3>
+<ul>
+<li>Image generation and Enhancement using <strong>GAN</strong> -
+Generative Adversarial Network (Machine Learning).</li>
+<li>Enabling the differently-abled Through Morse code (using
+<strong>Arduino</strong> and <strong>Proteus simulation</strong>).</li>
+<li>Data Compression, Encryption, and Decryption using
+<strong>Python</strong>.</li>
+</ul>
+<h3 id="mindtree-bangalore">Mindtree, Bangalore</h3>
+<ul>
+<li>Model Book Store using <strong>Dotnet</strong>,
+<strong>MSSQL</strong>, and <strong>Angular</strong>.</li>
+</ul>
+<h3 id="personal-project">Personal Project</h3>
+<ul>
+<li><strong>Version Controlled Resume:</strong> A Markdown-based
+<strong>CSS</strong> formatting which can be converted to
+<strong>PDF</strong> for enhancing readability and maintainance.</li>
+</ul>
+<h2 id="academic-accomplishments">Academic Accomplishments</h2>
+<ul>
+<li><div>
+<span>Graduate Record Examinations (<strong>GRE</strong>)
+</span><span>Score - 314/340</span>
+</div></li>
+<li><div>
+<span>Test of English as a Foreign Language
+(<strong>TOEFL</strong>)</span><span>Score - 95/120</span>
+</div></li>
+<li>Medalist at School and State level in International Mathematics
+Olympiad (<strong>IMO</strong>) &amp; National Cyber Olympiad
+(<strong>NCO</strong>).</li>
+<li><div>
+<span><strong>Graduate Aptitude Test in Engineering
+(GATE)</strong></span><span><strong>2021 - 2022</strong></span>
+</div>
+<p>
+An examination for admission in Master's Program and jobs in Public
+Sector Companies in India.
+</p>
+<table>
+<tr>
+<td>
+2022
+</td>
+<td>
+Computer Science
+</td>
+<td>
+Score - 350/900
+</td>
+<td>
+All India Rank - <strong>9894</strong> out of 80K (approx).
+</td>
+</tr>
+<tr>
+<td>
+2021
+</td>
+<td>
+Electronic Communication
+</td>
+<td>
+Score - 360/900
+</td>
+<td>
+All India Rank - <strong>7965</strong> out of 80K (approx).
+</td>
+</tr>
+</table></li>
+</ul>
+<h2 id="technical-skills">Technical Skills</h2>
+<ul>
+<li><strong>Frontend:</strong> HTML, CSS, JavaScript, Angular</li>
+<li><strong>Backend:</strong> Java, Dotnet(C#), Python, C++, SQL, NoSQL,
+Bash script, PowerShell script</li>
+<li><strong>Version Control:</strong> Mercurial(Hg), Git</li>
+<li><strong>Tools:</strong> IntelliJ IDEA, Visual Studio, Jira, Vim,
+Office Suites</li>
+</ul>
+</div> </body> </html>
